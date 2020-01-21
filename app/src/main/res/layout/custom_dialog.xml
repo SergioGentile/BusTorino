@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/layout_rounded"
+    android:padding="10px"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_margin="10px"
+        android:id="@+id/numFermata"
+        android:text="Prova"
+        android:textSize="18sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000" />
+
+
+    <TextView
+        android:layout_margin="15px"
+        android:id="@+id/passaggi"
+        android:text="Prova"
+        android:textSize="15sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000" />
+
+
+</LinearLayout>
